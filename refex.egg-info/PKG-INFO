@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: refex
+Version: 0.0.1
+Summary: Biological database cross-referencing tool.
+Home-page: http://github.com/tmp-usr/refex/
+Author: Kemal Sanli
+Author-email: kemalsanli1@gmail.com
+License: MIT
+Description: 
+        Installation
+        ------------
+        
+        >> python setup.py install 
+        
+        
+        
+        
+Platform: UNKNOWN
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics

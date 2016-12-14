@@ -1,0 +1,18 @@
+# Temporary files #
+.DS_Store
+*.pyc
+*.swp
+*.swo
+*~
+\#*
+.#*
+._*
+~$*
+.~lock*
+*ipynb*
+trash/
+*.log
+build/
+dist/
+*.txt
+planning/
